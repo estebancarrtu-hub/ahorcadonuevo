@@ -92,3 +92,8 @@ public class Ahorcado {
 		            "  +---+\n  |   |\n  O   |\n /|\\  |\n / \\  |\n      |\n========="
 		        };
 		        return dibujos[falloss];
+
+	}
+
+}
+
